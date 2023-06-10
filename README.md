@@ -1,0 +1,2 @@
+# gpgtest
+mygpgtestrepo
